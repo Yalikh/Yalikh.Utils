@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Ilya Khramtsov</Authors>
+    <Version>1.0.2</Version>
+
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
